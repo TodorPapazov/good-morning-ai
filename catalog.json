@@ -1,3 +1,145 @@
 {
-  "episodes": []
+  "episodes": [
+    {
+      "id": "2026-10-21",
+      "air": "Wednesday, October 21",
+      "slot": "6:30 a.m. ET",
+      "title": "SpaceX Q3 surge, Claude designs binders, OpenAI acquires Orchestra Bio",
+      "dek": "Overnight: Starship revenue flight, scorpion toxin research, biopharma deal, GTC Berlin, Gemini in the car.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-21.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 50.87,
+        "starts": {
+          "open": 0.0,
+          "spacex": 5.0,
+          "anthropic": 15.0,
+          "openai": 25.0,
+          "nvidia": 35.0,
+          "google": 42.0,
+          "close": 48.0
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Wednesday morning roundup",
+          "dek": "The last twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Wednesday, October twenty-first."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Q3: $14.6B revenue, first revenue Starship",
+          "dek": "Starship delivers 26 Starlink V3s; compute at 1.7 GW.",
+          "reaction": "A trillion-dollar year in 2028 is no longer impossible, Musk says.",
+          "paragraphs": [
+            "SpaceX reported Q3 revenue of fourteen-point-six billion dollars, up one hundred sixty-one percent, and flew the first revenue-generating Starship with twenty-six Starlink V3 satellites. Compute reached 1.7 GW. Elon Musk said a one-trillion-dollar year in 2028 is no longer impossible."
+          ],
+          "sources": [
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2112638276389790102"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2112666467712073815"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Claude designs scorpion toxin binders",
+          "dek": "17 of 211 tested designs bound; data released.",
+          "reaction": "Exploratory step, not yet an antivenom.",
+          "paragraphs": [
+            "Anthropic used Claude to design protein binders for scorpion toxins. Seventeen of two hundred eleven tested designs bound, and the designs and lab data are now public."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2112579251555721573"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Acquires Orchestra Bio; Madry returns for safety",
+          "dek": "Building on Rosalind for biopharma coordination.",
+          "reaction": "Safety and security of superintelligence remain central.",
+          "paragraphs": [
+            "OpenAI acquired Orchestra Bio for biopharma coordination, building on Rosalind. Sam Altman welcomed Aleksander Madry back to work on the safety and security challenges of superintelligence."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2112607347688583586"
+            },
+            {
+              "name": "Sam Altman",
+              "handle": "@sama",
+              "href": "https://x.com/sama/status/2112652656602923366"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "GTC Berlin: media AI with EBU and Adobe",
+          "dek": "Sovereign data control and faster video search.",
+          "reaction": "Jensen takes the stage.",
+          "paragraphs": [
+            "Nvidia at GTC Berlin is partnering with the European Broadcasting Union and Adobe on AI for media teams that keeps data control while speeding video search."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA AI",
+              "handle": "@NVIDIAAI",
+              "href": "https://x.com/NVIDIAAI/status/2112677152735076822"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gemini Personal Intelligence in the car",
+          "dek": "Android Auto and Google built-in cars.",
+          "reaction": "Hands-free personalized help on the road.",
+          "paragraphs": [
+            "Google is rolling out Gemini Personal Intelligence to Android Auto and, in coming months, to cars with Google built-in."
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2112655614132285592"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Rockets, biology, biopharma, media, and cars.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    }
+  ]
 }
