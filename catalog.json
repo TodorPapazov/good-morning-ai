@@ -1,6 +1,152 @@
 {
   "episodes": [
     {
+      "id": "2026-10-22",
+      "air": "Thursday, October 22",
+      "slot": "6:30 a.m. ET",
+      "title": "Grok Bot as employee, Anthropic benefit report, OpenAI patches PHP",
+      "dek": "Overnight: Grok Bot updates, public benefit, PHP flaws, lab protocols, 3D archaeology.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-22.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 55.03,
+        "starts": {
+          "open": 0.0,
+          "spacex": 6.5,
+          "anthropic": 18.0,
+          "openai": 28.0,
+          "nvidia": 40.0,
+          "google": 47.0,
+          "close": 52.5
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Thursday morning roundup",
+          "dek": "The last twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Thursday, October twenty-second."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Grok Bot like a super smart employee",
+          "dek": "Reports, memos, dashboards; shot at 10 GW next year.",
+          "reaction": "No new launch overnight.",
+          "paragraphs": [
+            "Elon Musk said Grok Bot is like hiring a super smart and fun employee, after the update that lets it build reports, memos, and dashboards. He also said we have a shot at exceeding ten gigawatts of compute next year. No new launch overnight."
+          ],
+          "sources": [
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2113011511429902609"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Annual Public Benefit Report; Stubbs joins trust",
+          "dek": "Public Benefit Corporation stock-taking; Harvard physicist on LTBT.",
+          "reaction": "Continued focus on long-term benefit.",
+          "paragraphs": [
+            "Anthropic published its annual Public Benefit Report. Doctor Christopher Stubbs, a Harvard physicist and former Dean of Science, is joining the Long-Term Benefit Trust."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2112966949273801086"
+            },
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2112946750264676743"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Models to Google Cloud; PHP flaws; Rosalind leads",
+          "dek": "Frontier models in Model Garden; Defender's Window on PHP; drug discovery.",
+          "reaction": "AI finding internet-scale security bugs.",
+          "paragraphs": [
+            "OpenAI models are coming to Google Cloud Model Garden. Their models helped discover critical security flaws in PHP that affect an estimated seventy percent of websites. GPT-Rosalind also surfaced new leads for drug discovery on neurodegenerative disorders."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2112988118471295323"
+            },
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2112907856018309586"
+            },
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2112899854569762936"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Nemotron trained on scientific protocols",
+          "dek": "With Benchling; outperforms closed models on lab tasks at low cost.",
+          "reaction": "Path for specialized R&D intelligence.",
+          "paragraphs": [
+            "Nvidia AI partnered with Benchling to post-train Nemotron 3.5 Super VL on scientific protocol data. It outperformed comparable closed models on troubleshooting and optimizing lab experiments at low cost."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA AI",
+              "handle": "@NVIDIAAI",
+              "href": "https://x.com/NVIDIAAI/status/2112971189585055986"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gemini 4 Argon builds 3D Chaco Canyon",
+          "dek": "LiDAR and archives into explorable digital heritage site.",
+          "reaction": "Interactive archaeology with historical context.",
+          "paragraphs": [
+            "Google showed Gemini 4 Argon turning LiDAR scans and archives of Chaco Canyon into an explorable 3D digital heritage site, with interactive rooms and historical context."
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2113005543623450865"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Bots, benefit, security, labs, and heritage.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
       "id": "2026-10-21",
       "air": "Wednesday, October 21",
       "slot": "6:30 a.m. ET",
