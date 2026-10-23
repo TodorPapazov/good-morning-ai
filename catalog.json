@@ -1,6 +1,167 @@
 {
   "episodes": [
     {
+      "id": "2026-10-23",
+      "air": "Friday, October 23",
+      "slot": "6:30 a.m. ET",
+      "title": "Grok Bot phone apps, Claude verifies code, Gemini builds cathedrals",
+      "dek": "Overnight: phone integrations, formal verification, embedded evals, quiet Nvidia, 3D scenes.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-23.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 91.9,
+        "starts": {
+          "open": 0.0,
+          "spacex": 8.0,
+          "anthropic": 32.0,
+          "openai": 52.0,
+          "nvidia": 66.0,
+          "google": 76.0,
+          "close": 88.0
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Friday morning roundup",
+          "dek": "The last twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Friday, October twenty-third."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Grok Bot phone apps; launch stood down",
+          "dek": "Calendar and contacts integration; weather delay on Starlink.",
+          "reaction": "No new launch overnight.",
+          "paragraphs": [
+            "Grok Bot now integrates with Calendar, Reminders, Contacts and more phone apps, rolling out on iOS and Android. Elon Musk called it an incredible life and business manager, like having a genius employee. SpaceX stood down from today's Starlink launch due to unfavorable weather. Next opportunity is no earlier than Friday. They are increasing Megapack production as much as possible. No new launch overnight."
+          ],
+          "sources": [
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2113444022408937913"
+            },
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2113410488319262924"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2113333017078882694"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Claude formally verifies 100+ libraries; Google Cloud GA",
+          "dek": "Large-scale formal verification; models on Google Cloud generally available.",
+          "reaction": "AI making formal methods practical.",
+          "paragraphs": [
+            "Claude was used to formally verify security properties in over one hundred real-world open-source libraries. Claude Models on Google Cloud, Anthropic managed, is now generally available. Starting next week, auto mode becomes the default for sessions on Pro, Max and Team plans."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2113390212911083894"
+            },
+            {
+              "name": "Claude",
+              "handle": "@claudeai",
+              "href": "https://x.com/claudeai/status/2113380122468454765"
+            },
+            {
+              "name": "Claude",
+              "handle": "@claudeai",
+              "href": "https://x.com/claudeai/status/2113360845409583307"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Embedded evaluation with METR and Redwood",
+          "dek": "Three-week pilot of internal monitoring system.",
+          "reaction": "Strengthened safeguards from third-party access.",
+          "paragraphs": [
+            "They invited METR and Redwood Research to pilot an embedded evaluation of their internal monitoring system, giving deep access over three weeks this summer. Findings helped strengthen safeguards as the system expanded."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2113298833392496746"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Quiet overnight; OpenShell noted",
+          "dek": "GTC Berlin OpenShell for agent boundaries.",
+          "reaction": "Labs were quiet on new announcements.",
+          "paragraphs": [
+            "Overnight was quiet. Earlier at GTC Berlin they highlighted OpenShell for setting boundaries on AI agents, and SpaceX Super Intelligence noted they are proud to be part of that initiative."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA AI",
+              "handle": "@NVIDIAAI",
+              "href": "https://x.com/NVIDIAAI/status/2112852615461773370"
+            },
+            {
+              "name": "SpaceX Super Intelligence",
+              "handle": "@SpaceXSI",
+              "href": "https://x.com/SpaceXSI/status/2113365443931148624"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gemini 4 Argon builds 3D cathedral and video soundtrack tool",
+          "dek": "Autonomous Blender loop from one image; motion-triggered notes.",
+          "reaction": "Creative 3D and audio generation.",
+          "paragraphs": [
+            "Gemini 4 Argon, starting from a single image, created a finished 3D cathedral audio-reactive scene by driving Blender in an autonomous loop. It also built a Canvas tool that traces musical scale lines across live video to trigger notes from motion."
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2113353489938075794"
+            },
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2113283068274540555"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Apps, verification, evals, and creative scenes.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
       "id": "2026-10-22",
       "air": "Thursday, October 22",
       "slot": "6:30 a.m. ET",
