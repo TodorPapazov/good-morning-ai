@@ -1,6 +1,119 @@
 {
   "episodes": [
     {
+      "id": "2026-10-25",
+      "air": "Sunday, October 25",
+      "slot": "6:30 a.m. ET",
+      "title": "Quiet overnight; Nvidia pushes Europe\u2019s AI economy",
+      "dek": "Most labs silent overnight. Nvidia at GTC Berlin. Elon shares Grok Bot note.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-25.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 63.4,
+        "starts": {
+          "open": 0.0,
+          "spacex": 9.7,
+          "anthropic": 25.6,
+          "openai": 31.8,
+          "nvidia": 37.0,
+          "google": 53.0,
+          "close": 59.6
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Sunday morning roundup",
+          "dek": "The last twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Sunday, October twenty-fifth. The last twenty-four hours were relatively quiet across the major labs."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "No new posts; Elon shares Grok Bot",
+          "dek": "Labs quiet. Musk encourages trying Grok Bot as personal AI staff.",
+          "reaction": "No new launch or major announcement overnight.",
+          "paragraphs": [
+            "SpaceX and xAI were quiet overnight. No new posts from the official accounts. Elon Musk did share a note encouraging people to try Grok Bot, after a discussion describing it as essentially your own staff of AI agents for content, research, calendar and more."
+          ],
+          "sources": [
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2113996858842563006"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Quiet overnight",
+          "dek": "No new posts or announcements in the window.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "Anthropic was quiet overnight. No new announcements or posts from the official accounts in the last twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Quiet overnight",
+          "dek": "No new posts from OpenAI accounts.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "OpenAI was also quiet. No new posts from the official OpenAI accounts overnight."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Europe\u2019s AI economy at GTC Berlin",
+          "dek": "Jensen Huang on building Europe\u2019s own AI with existing expertise.",
+          "reaction": "Focus on regional AI build-out.",
+          "paragraphs": [
+            "Nvidia posted from GTC Berlin. Jensen Huang noted that Europe has spent generations mastering science, engineering and manufacturing, and that knowledge can now power AI of its own. He said, let\u2019s work together to build Europe\u2019s AI economy and put AI to work."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA",
+              "handle": "@nvidia",
+              "href": "https://x.com/nvidia/status/2114105704089100458"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Quiet on AI fronts",
+          "dek": "No major AI posts; entertainment promotions instead.",
+          "reaction": "Labs were quiet on new AI developments.",
+          "paragraphs": [
+            "Google was quiet on AI fronts overnight. Their posts focused on entertainment promotions rather than new AI developments."
+          ],
+          "sources": []
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "A quieter day across the labs.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. A quieter day. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
       "id": "2026-10-24",
       "air": "Saturday, October 24",
       "slot": "6:30 a.m. ET",
