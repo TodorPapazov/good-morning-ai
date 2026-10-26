@@ -4,21 +4,21 @@
       "id": "2026-10-26",
       "air": "Monday, October 26",
       "slot": "6:30 a.m. ET",
-      "title": "Super Heavy static fire, Grok Bot places calls",
-      "dek": "Overnight: 33-engine Super Heavy fire for Flight 15, Grok Bot can call on your behalf, quiet labs, Nvidia GTC Berlin.",
+      "title": "Super Heavy static fire; labs quiet overnight",
+      "dek": "33-engine Super Heavy static fire for Flight 15. Anthropic, OpenAI, Google quiet. Nvidia GTC Berlin highlights.",
       "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-26.b64",
       "host": "Leo Ward",
       "show": "Good Morning AI",
       "clock": {
-        "duration": 78.4,
+        "duration": 85.6,
         "starts": {
           "open": 0.0,
-          "spacex": 8.5,
-          "anthropic": 42.0,
-          "openai": 48.5,
+          "spacex": 12.0,
+          "anthropic": 38.0,
+          "openai": 48.0,
           "nvidia": 55.0,
-          "google": 68.0,
-          "close": 74.0
+          "google": 72.0,
+          "close": 80.0
         }
       },
       "sections": [
@@ -29,18 +29,18 @@
           "dek": "The last twenty-four hours in AI and space.",
           "reaction": "",
           "paragraphs": [
-            "Good morning. This is Leo Ward with Good Morning AI. Monday, October twenty-sixth. The last twenty-four hours brought a Super Heavy static fire and new Grok Bot capabilities."
+            "Good morning. This is Leo Ward with Good Morning AI. Monday, October twenty-sixth. The last twenty-four hours were relatively quiet across the major AI labs, with one clear standout from SpaceX."
           ],
           "sources": []
         },
         {
           "id": "spacex",
           "kicker": "SpaceX / xAI",
-          "headline": "Super Heavy 33-engine static fire; Grok Bot makes calls",
-          "dek": "Full duration fire preparing for Flight 15. Bot can call businesses and summarize.",
-          "reaction": "No launch overnight, but strong prep and new Bot features.",
+          "headline": "Full-duration 33-engine Super Heavy static fire",
+          "dek": "Preparing for Starship Flight 15. No new xAI product drop.",
+          "reaction": "Strong prep; no launch overnight.",
           "paragraphs": [
-            "SpaceX posted a full duration 33-engine static fire for the Super Heavy booster preparing for Flight 15. Elon Musk noted that SpaceX is not buying any neoclouds, calling it pointless, and discussed how debt markets have tightened for companies without independent revenue, while SpaceX closed forty billion in debt for GPUs backed by Starlink and launch revenue. On xAI, Elon announced that Grok Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation. He advised treating Grok Bot as hiring a super competent employee."
+            "SpaceX completed a full-duration thirty-three engine static fire of the Super Heavy booster preparing for Starship Flight fifteen. Elon Musk shared the video and simply noted Starship Flight fifteen static fire. No new xAI model or product announcements in the window."
           ],
           "sources": [
             {
@@ -51,12 +51,7 @@
             {
               "name": "Elon Musk",
               "handle": "@elonmusk",
-              "href": "https://x.com/elonmusk/status/2114365361068138990"
-            },
-            {
-              "name": "Elon Musk",
-              "handle": "@elonmusk",
-              "href": "https://x.com/elonmusk/status/2114462416721633501"
+              "href": "https://x.com/elonmusk/status/2114513919566033266"
             }
           ]
         },
@@ -67,7 +62,7 @@
           "dek": "No new posts or announcements in the window.",
           "reaction": "Labs were quiet.",
           "paragraphs": [
-            "Anthropic was quiet overnight. No new posts from official accounts in the last twenty-four hours."
+            "Anthropic was quiet overnight. No new posts or announcements from the official accounts in the last twenty-four hours."
           ],
           "sources": []
         },
@@ -78,18 +73,18 @@
           "dek": "No new posts from OpenAI accounts.",
           "reaction": "Labs were quiet.",
           "paragraphs": [
-            "OpenAI was also quiet. No new announcements or posts overnight."
+            "OpenAI was also quiet. No new posts from the official OpenAI accounts overnight."
           ],
           "sources": []
         },
         {
           "id": "nvidia",
           "kicker": "Nvidia",
-          "headline": "GTC Berlin highlights: Europe\u2019s AI future",
-          "dek": "Jensen Huang on AI factories, agents, robotics and healthcare across the continent.",
-          "reaction": "Europe building its AI future with Nvidia all in.",
+          "headline": "GTC Berlin highlights for Europe AI",
+          "dek": "Jensen on AI factories, agents, robotics and healthcare.",
+          "reaction": "Europe building its AI future.",
           "paragraphs": [
-            "Nvidia shared highlights from GTC Berlin, where Jensen Huang showed how AI is taking shape across Europe, from AI factories and agents to robotics and healthcare. Europe is building its AI future, and Nvidia is all in."
+            "Nvidia continued coverage from GTC Berlin. Nvidia posted a look back at the highlights, with Jensen Huang on stage showing how AI is taking shape across Europe, from AI factories and agents to robotics and healthcare."
           ],
           "sources": [
             {
@@ -106,7 +101,7 @@
           "dek": "No major AI posts overnight.",
           "reaction": "Labs were quiet on new AI developments.",
           "paragraphs": [
-            "Google was quiet on AI fronts overnight. No major new posts from the official accounts."
+            "Google was quiet on the AI fronts overnight. No major new model or research posts in the window."
           ],
           "sources": []
         },
@@ -114,10 +109,10 @@
           "id": "close",
           "kicker": "Close",
           "headline": "Overnight picture",
-          "dek": "Static fire, Bot calls, and Europe AI focus.",
+          "dek": "Static fire stands out on a quieter day.",
           "reaction": "",
           "paragraphs": [
-            "That is the overnight picture. Have a good day."
+            "That is the overnight picture. A quieter day outside of the Super Heavy static fire. Have a good day."
           ],
           "sources": []
         }
