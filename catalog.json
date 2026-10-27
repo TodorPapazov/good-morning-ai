@@ -1,6 +1,146 @@
 {
   "episodes": [
     {
+      "id": "2026-10-27",
+      "air": "Tuesday, October 27",
+      "slot": "6:30 a.m. ET",
+      "title": "GPT-6.1 Terra, Anthropic S-1, Grok Bot chief of staff",
+      "dek": "OpenAI ships Terra computer use. Anthropic files for IPO. Elon on Grok Bot. Nvidia cancer risk tool.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-27.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 106.3,
+        "starts": {
+          "open": 0.0,
+          "spacex": 10.1,
+          "anthropic": 29.3,
+          "openai": 48.8,
+          "nvidia": 73.7,
+          "google": 92.6,
+          "close": 99.8
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Tuesday morning roundup",
+          "dek": "The last twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Tuesday, October twenty-seventh. The last twenty-four hours brought significant moves from the major AI labs."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Grok Bot as chief of staff; no launch",
+          "dek": "Elon highlights weekly features. SpaceX quiet.",
+          "reaction": "No launch overnight.",
+          "paragraphs": [
+            "SpaceX had no new posts overnight. No launch in the window. On the xAI side, Elon Musk highlighted Grok Bot, describing it as like hiring an incredibly competent chief of staff. He noted that over one hundred features and fixes are released every week, and asked followers what the most important things to improve about Grok Bot are."
+          ],
+          "sources": [
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2114772843997351993"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2114751739026985329"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "S-1 IPO filing and nonprofit expansion",
+          "dek": "Registration statement filed. Claude for Nonprofits grows.",
+          "reaction": "Major corporate step.",
+          "paragraphs": [
+            "Anthropic filed an S-1 registration statement with the SEC related to its proposed IPO. Separately, they expanded Claude for Nonprofits. More than twenty-five thousand nonprofits now use Claude, most small local teams, and they added a plugin built with around thirty of them for skills in fundraising, marketing, and hiring."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2114705042817110293"
+            },
+            {
+              "name": "Claude",
+              "handle": "@claudeai",
+              "href": "https://x.com/claudeai/status/2114780227465338985"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "GPT-6.1 Terra computer use at lower price",
+          "dek": "Fast capable agents. Available to Plus, Pro and more.",
+          "reaction": "New model family step.",
+          "paragraphs": [
+            "OpenAI released GPT-6.1 Terra. It delivers fast and capable computer use at a lower price. The model understands what is on screen, takes action across apps, writes naturally, and is available now to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex, plus via the API. It substantially outperforms previous versions on agent tests and runs cheaper and faster."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2114780711664398349"
+            },
+            {
+              "name": "Sam Altman",
+              "handle": "@sama",
+              "href": "https://x.com/sama/status/2114818620782248024"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "AI estimates breast cancer recurrence risk",
+          "dek": "SimBioSys TumorSight Risk powered by NVIDIA.",
+          "reaction": "Healthcare application.",
+          "paragraphs": [
+            "Nvidia highlighted work with SimBioSys. Powered by NVIDIA technology, its FDA-cleared TumorSight Risk analyzes an existing breast MRI alongside pathology and clinical information to estimate the risk of cancer returning at five and ten years, helping doctors and patients with treatment decisions before surgery."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA",
+              "handle": "@nvidia",
+              "href": "https://x.com/nvidia/status/2114827978748383342"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Quiet on AI fronts",
+          "dek": "No major AI posts overnight.",
+          "reaction": "Labs quiet on new developments.",
+          "paragraphs": [
+            "Google was quiet on major AI fronts overnight. Their posts stayed light-hearted rather than covering new model or research drops."
+          ],
+          "sources": []
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Product, IPO, and healthcare news.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Product releases, an IPO filing, and healthcare applications. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
       "id": "2026-10-26",
       "air": "Monday, October 26",
       "slot": "6:30 a.m. ET",
