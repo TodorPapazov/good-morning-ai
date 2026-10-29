@@ -1,6 +1,141 @@
 {
   "episodes": [
     {
+      "id": "2026-10-29",
+      "air": "Thursday, October 29",
+      "slot": "6:30 a.m. ET",
+      "title": "Ship 42 static fire, Claude Legal artifacts, text your ChatGPT dot, Gemini 4 Carbon",
+      "dek": "Previous 24 hours: Starship static fires, Claude for Legal tools, ChatGPT texting, Gemini 4 Carbon tops index.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-29.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 97.7,
+        "starts": {
+          "open": 0.0,
+          "spacex": 12.0,
+          "anthropic": 32.0,
+          "openai": 48.0,
+          "nvidia": 65.0,
+          "google": 70.0,
+          "close": 90.0
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Thursday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Thursday, October twenty-ninth. Covering the previous twenty-four hours, ending at six-thirty a.m. Eastern."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Ship 42 static fires for Flight 15",
+          "dek": "Full-duration six-engine and single Raptor deorbit sim. No launch.",
+          "reaction": "Prep continues; no launch overnight.",
+          "paragraphs": [
+            "On the SpaceX and xAI side, SpaceX completed static fires for Ship 42, the Starship preparing for Flight fifteen. It performed a full duration, six-engine static fire, and fired a single Raptor engine to simulate a deorbit burn. No new launch in the window, and no major new xAI product announcements. Elon Musk called Google's new model impressive."
+          ],
+          "sources": [
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2115476295169814978"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2115503730368061688"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Claude for Legal artifacts gallery",
+          "dek": "Ready-made tools for contract review, horizon scans, cite checks.",
+          "reaction": "Legal workflow expansion.",
+          "paragraphs": [
+            "Anthropic, through Claude, introduced new features in Claude for Legal: a gallery of ready-made artifacts for contract review, regulatory horizon scans, cite checks, and more. Start from the built-in example, add your own documents and connectors, and share across the business."
+          ],
+          "sources": [
+            {
+              "name": "Claude",
+              "handle": "@claudeai",
+              "href": "https://x.com/claudeai/status/2115467192276025500"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Text your ChatGPT dot",
+          "dek": "Pro users in the US can now text tasks and receive proactive updates.",
+          "reaction": "Messaging integration.",
+          "paragraphs": [
+            "OpenAI, via ChatGPT, announced that you can now text your dot. Give it a task or something to keep an eye on, using text, photos, or voice notes. It will text you proactively. Rolling out as a preview for Pro users in the US."
+          ],
+          "sources": [
+            {
+              "name": "ChatGPT",
+              "handle": "@ChatGPT",
+              "href": "https://x.com/ChatGPT/status/2115496387613786374"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Quiet overnight",
+          "dek": "No major new posts from official accounts.",
+          "reaction": "Labs quiet.",
+          "paragraphs": [
+            "Nvidia was quiet overnight. No major new posts from official accounts in the window."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gemini 4 Carbon frontier model",
+          "dek": "Ranks #1 on Artificial Analysis Index at 59. Gradual rollout.",
+          "reaction": "New top model.",
+          "paragraphs": [
+            "Google announced Gemini 4 Carbon, their next frontier model. Following Argon just two weeks ago, it ranks number one on the Artificial Analysis Intelligence Index at fifty-nine. It leads in complex reasoning, knowledge, and scientific tasks, with gains in long-horizon tasks and strengthened safeguards. Rolling out gradually to trusted cyber defenders and partners."
+          ],
+          "sources": [
+            {
+              "name": "Sundar Pichai",
+              "handle": "@sundarpichai",
+              "href": "https://x.com/sundarpichai/status/2115489219804352921"
+            },
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2115571860746248259"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Static fires, legal tools, texting agents, new frontier model.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Static fires, legal tools, texting agents, and a new frontier model. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
       "id": "2026-10-28",
       "air": "Wednesday, October 28",
       "slot": "6:30 a.m. ET",
