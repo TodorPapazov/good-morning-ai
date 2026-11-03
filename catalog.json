@@ -1,6 +1,146 @@
 {
   "episodes": [
     {
+      "id": "2026-11-03",
+      "air": "Tuesday, November 3",
+      "slot": "6:30 a.m. ET",
+      "title": "Starlink saves lives, Anthropic Residency opens, OpenAI boosts bug bounties",
+      "dek": "Previous 24 hours: Starlink rescue, Grok Bot insurance call, Anthropic research residency, OpenAI security sprint and LifeVal, Nvidia city AI and Cosmos 3, Google quiet.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-03.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 120.0,
+        "starts": {
+          "open": 0.0,
+          "spacex": 10.0,
+          "anthropic": 35.0,
+          "openai": 55.0,
+          "nvidia": 80.0,
+          "google": 105.0,
+          "close": 115.0
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Tuesday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Tuesday, November third, twenty twenty-six. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Starlink saves five lives; Grok Bot calls insurance",
+          "dek": "Atlantic rescue via Starlink; Bot shops auto insurance.",
+          "reaction": "Real-world impact and practical agent use.",
+          "paragraphs": [
+            "Elon Musk shared that Starlink helped save five lives in the Atlantic. A boat called Karolina Viking was filling with water, power systems failing, and rescuers couldn't reach them by radio or satellite phone. The sailors shared their location through Starlink, helping another yacht find them. All five were rescued from their liferaft. Elon simply said Starlink saves lives. He also promoted Grok Bot after a user had it shop for auto insurance, call Progressive about glass coverage while picking up kids, and get the info without the user talking to anyone. Elon posted Grok at Bot. He also noted that cooling is much easier in space, with aluminum radiators achieving about thirteen hundred watts per square meter pointed away from the sun seeing mostly cosmic background."
+          ],
+          "sources": [
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2117479668768981376"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2117463822332314036"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Anthropic Residency applications open",
+          "dek": "Paid fixed-term research program for AI safety. No ML background required.",
+          "reaction": "Broader access to safety research.",
+          "paragraphs": [
+            "Applications are now open for the Anthropic Residency, a paid fixed-term research program for academics, technical founders, and staff-level engineers who want to make AI safe and beneficial for everyone. No ML background is required. Apply by November twenty-second."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2117343929960112486"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Bigger bug bounties and LifeVal benchmark",
+          "dek": "Security sprint with Cathedral Systems; rewards up to $172k; everyday tasks benchmark.",
+          "reaction": "Defenders using AI before attackers; practical help.",
+          "paragraphs": [
+            "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do. OpenAI is planning their next internal security sprint and partnering with Cathedral Systems, whose researchers will use their models alongside teams to challenge defenses. They are also raising bug bounty rewards, more than quadrupling for critical findings, with exceptional findings eligible for up to one hundred seventy-two thousand dollars including bonuses. Updated rewards apply to reports awaiting bounty, and for past thirty days they will pay the difference. They also highlighted LifeVal, a new benchmark shaped by feedback from thousands of ChatGPT users on everyday tasks like finding childcare, accessing government services, managing personal finances, used over the past year to improve models on those."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2117444048227123277"
+            },
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2117307611338997846"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "City AI apps, Kubernetes runtime, Cosmos 3",
+          "dek": "Agents and digital twins for cities; Cluster Runtime; camera-controlled world models.",
+          "reaction": "Practical infrastructure and generative simulation.",
+          "paragraphs": [
+            "AI agents that answer residents questions, vision agents that help reduce traffic delays, digital twins that simulate fifteen years of urban forest growth in ten minutes. Partners building applications for cities with NVIDIA Nemotron, Cosmos and Omniverse, sharing computing resources across departments. Also, if you have GPUs in Kubernetes, NVIDIA AI Cluster Runtime brings together NVIDIA Dynamo and the infrastructure it needs. And Cosmos three generates views from a single image as the camera follows a dog, rises or moves sideways. Tutorials for serving Cosmos models with NIM microservices."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA AI",
+              "handle": "@NVIDIAAI",
+              "href": "https://x.com/NVIDIAAI/status/2117516278034247708"
+            },
+            {
+              "name": "NVIDIA AI",
+              "handle": "@NVIDIAAI",
+              "href": "https://x.com/NVIDIAAI/status/2117332461785133545"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Quiet on major AI",
+          "dek": "Posts on search and entertainment.",
+          "reaction": "Labs were quiet on new AI developments.",
+          "paragraphs": [
+            "Google was quiet on major new AI developments from the official accounts overnight, with posts focused on search features and entertainment promotions."
+          ],
+          "sources": []
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Rescue, residency, bounties, city AI.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
       "id": "2026-11-02",
       "air": "Monday, November 2",
       "slot": "6:30 a.m. ET",
