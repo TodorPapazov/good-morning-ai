@@ -1,1 +1,140 @@
-PLACEHOLDER_FOR_CATALOG
+{
+  "episodes": [
+    {
+      "id": "2026-11-06",
+      "air": "Friday, November 6",
+      "slot": "6:30 a.m. ET",
+      "title": "Space AI data centers, Claude Personal Finance, GPT-6 Cyber, Gemini Omni 1.2",
+      "dek": "Previous 24 hours: Elon on space superintelligence, Starlink education, Claude finance beta, OpenAI Cyber model, Nvidia agents, Google Omni Flash.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-06.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 150.0,
+        "starts": {
+          "open": 0.0,
+          "spacex": 15.0,
+          "anthropic": 40.0,
+          "openai": 65.0,
+          "nvidia": 95.0,
+          "google": 125.0,
+          "close": 140.0
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Friday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Friday, November sixth. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Space as lowest-cost for superintelligence; Starlink education",
+          "dek": "Elon agrees on solar-powered AI data centers in space within 2-3 years; Starlink kits for remote Indonesian schools.",
+          "reaction": "No new launch in the window.",
+          "paragraphs": [
+            "SpaceX and xAI saw Elon Musk agree that space will become the lowest-cost place to run superintelligence within two to three years, with solar-powered AI data centers in space providing efficient power and cooling. Starlink is bringing internet access to remote classrooms in Indonesia, with local government distributing kits to schools. No new launch in the window."
+          ],
+          "sources": [
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2118638089677803638"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2118637614068912548"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Personal Finance in Claude",
+          "dek": "Beta in the US: connect accounts, everyday language answers, read-only, no ads.",
+          "reaction": "Practical personal tool.",
+          "paragraphs": [
+            "Anthropic introduced Personal Finance in Claude, in beta in the US. Users can connect the accounts they choose, and Claude answers money questions in everyday language from their own balances and transactions. Access is read-only, Claude cannot move, manage, or invest money, and there are no ads or sponsored recommendations."
+          ],
+          "sources": [
+            {
+              "name": "Claude",
+              "handle": "@claudeai",
+              "href": "https://x.com/claudeai/status/2118403114890137895"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "GPT-6 Cyber for security research",
+          "dek": "Major advance pairing capabilities with alignment; used on Linux kernel research.",
+          "reaction": "Expanding Daybreak access.",
+          "paragraphs": [
+            "OpenAI introduced GPT-6 Cyber, a major advance in security research that pairs stronger capabilities with better model alignment. The model powered the Linux kernel research announced earlier, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and Cisco are already putting it to work. It is available to select Daybreak Red customers, with access expanding over time."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2118390190246879554"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Agent applications highlighted",
+          "dek": "Shopping agents, backtesting, hospital safety, voice, construction.",
+          "reaction": "Quiet on new models, active on agents.",
+          "paragraphs": [
+            "Nvidia highlighted several agent applications. One on AI agents shopping with payment passkeys and Trusted Agent Protocol from Visa. Another on cutting backtest time from hours to a minute with market data. Tampa General Hospital using Nemotron for safety checks on LLM calls. Voice agents in over ninety languages with ElevenLabs. And construction agents saving thousands of hours. Relatively quiet on brand new model announcements, but active on agent tooling."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA AI",
+              "handle": "@NVIDIAAI",
+              "href": "https://x.com/NVIDIAAI/status/2118512045201211620"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gemini Omni 1.2 Flash rollout",
+          "dek": "Rolling out across products; conversation refinement of video clips.",
+          "reaction": "Faster iterative generation.",
+          "paragraphs": [
+            "Google announced Gemini Omni 1.2 Flash is rolling out starting today across Google Cloud, Flow, Google Vids, Ads, AI Studio, the Gemini API, and the Gemini App for AI subscribers. It allows refining the same clip turn by turn in conversation without starting over."
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2118390413870412082"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Space, finance, cyber, agents, and video.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    }
+  ]
+}
