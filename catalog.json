@@ -1,11 +1,155 @@
 {
   "episodes": [
     {
+      "id": "2026-11-13",
+      "air": "Friday, November 13",
+      "slot": "6:30 a.m. ET",
+      "title": "Ship 42 to pad, Claude Meetings, Gemini Hydrogen demos",
+      "dek": "Previous 24 hours: SpaceX Ship 42 pad move and data center community investments, Claude Meetings and IPO, OpenAI and Nvidia quiet, Google Hydrogen and eyewear.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-13.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 110,
+        "starts": {
+          "open": 0,
+          "spacex": 10,
+          "anthropic": 45,
+          "openai": 75,
+          "nvidia": 85,
+          "google": 95,
+          "close": 105
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Friday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Friday, November thirteenth. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Ship 42 to pad; data center community benefits",
+          "dek": "Starship preparation; major infrastructure investments and Grok Bot updates.",
+          "reaction": "No new launch in the window.",
+          "paragraphs": [
+            "SpaceX and xAI: Ship 42 moved to the Starbase pad ahead of launch. SpaceX detailed major community investments for their data center expansions, including two hundred twenty million dollars for water and wastewater infrastructure in Brownsville and Cameron County, and cleanup of decades of dumping at the site. Elon Musk highlighted Grok Bot, which can now use Messages, Mail, Notes, Reminders, Calendar, Location, and Contacts on Mac, and shared examples of it completing laborious tasks quickly."
+          ],
+          "sources": [
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2121044579470233638"
+            },
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2120912086989426746"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2121123425213399408"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2121120295884837183"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Claude Meetings and IPO filing",
+          "dek": "AI joins video calls to build docs in real time; initial public offering.",
+          "reaction": "New meeting assistant and public markets step.",
+          "paragraphs": [
+            "Anthropic introduced Claude Meetings, which joins video calls as a visible participant, builds docs and whiteboards in real time, and provides notes, action items, and transcripts afterward. Starting in beta on Team and Enterprise plans with Google Meet support. They also filed for an initial public offering."
+          ],
+          "sources": [
+            {
+              "name": "Claude",
+              "handle": "@claudeai",
+              "href": "https://x.com/claudeai/status/2120973994191094179"
+            },
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2120841731302154708"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Quiet on official announcements",
+          "dek": "No major new posts in the window.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "OpenAI was quiet on official announcements in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Quiet on major new posts",
+          "dek": "No major announcements in the window.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "Nvidia was quiet on major new posts in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gemini Hydrogen demos and intelligent eyewear",
+          "dek": "Creative 3D scenes; real-time speech translation on eyewear.",
+          "reaction": "New model capabilities and hardware.",
+          "paragraphs": [
+            "Google shared creative demos with Gemini Hydrogen, including interactive 3D scenes built quickly. Sundar Pichai commented on intelligent eyewear featuring real-time speech translation powered by Gemini."
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2121037844185546813"
+            },
+            {
+              "name": "Sundar Pichai",
+              "handle": "@sundarpichai",
+              "href": "https://x.com/sundarpichai/status/2121044919250997338"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Starship prep, meetings AI, IPO, and Gemini updates.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
       "id": "2026-11-12",
       "air": "Thursday, November 12",
       "slot": "6:30 a.m. ET",
       "title": "Falcon 9 USSF-627 launch, Optimus Academy, Nvidia voice agents",
-      "dek": "Previous 24 hours: SpaceX Falcon 9 launch and landing, Elon on Optimus and Grok Bot, OpenAI CoT research, Nvidia ElevenLabs collab and Déjà View, Google creative demos, Anthropic quiet.",
+      "dek": "Previous 24 hours: SpaceX Falcon 9 launch and landing, Elon on Optimus and Grok Bot, OpenAI CoT research, Nvidia ElevenLabs collab and D\u00e9j\u00e0 View, Google creative demos, Anthropic quiet.",
       "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-12.b64",
       "host": "Leo Ward",
       "show": "Good Morning AI",
@@ -96,11 +240,11 @@
         {
           "id": "nvidia",
           "kicker": "Nvidia",
-          "headline": "ElevenLabs voice agents and Déjà View model",
+          "headline": "ElevenLabs voice agents and D\u00e9j\u00e0 View model",
           "dek": "Expanded collaboration for enterprise voice agents; new 3D geometry model.",
           "reaction": "New tools and models.",
           "paragraphs": [
-            "Nvidia expanded collaboration with ElevenLabs to bring voice agents to enterprises and governments, integrating Nemotron models into ElevenAgents. They also highlighted Déjà View, a model that turns photos from different angles into 3D geometry."
+            "Nvidia expanded collaboration with ElevenLabs to bring voice agents to enterprises and governments, integrating Nemotron models into ElevenAgents. They also highlighted D\u00e9j\u00e0 View, a model that turns photos from different angles into 3D geometry."
           ],
           "sources": [
             {
@@ -233,7 +377,7 @@
           "dek": "Beta launch of Business Hub and Business Agents.",
           "reaction": "New business tools in ChatGPT.",
           "paragraphs": [
-            "OpenAI announced Businesses in ChatGPT, now in beta. Businesses can claim their business, manage their information, and get insights on how people engage with them. Eligible businesses can also build a Business Agent to answer customers’ questions and help them explore what they offer. They are also turning lessons from defending OpenAI into practical tools for customers, with a live keynote on Cyber at the Frontier scheduled for Thursday."
+            "OpenAI announced Businesses in ChatGPT, now in beta. Businesses can claim their business, manage their information, and get insights on how people engage with them. Eligible businesses can also build a Business Agent to answer customers\u2019 questions and help them explore what they offer. They are also turning lessons from defending OpenAI into practical tools for customers, with a live keynote on Cyber at the Frontier scheduled for Thursday."
           ],
           "sources": [
             {
@@ -287,21 +431,21 @@
       "id": "2026-10-27",
       "air": "Tuesday, October 27",
       "slot": "6:30 a.m. ET",
-      "title": "Quiet previous twenty-four hours",
-      "dek": "Previous 24 hours: all labs quiet, no new launch.",
+      "title": "Starlink launch, Claude GSA deal, Genie 4 world model",
+      "dek": "Previous 24 hours: Falcon 9 Starlink, Anthropic government partnership and drug research, Google Genie 4, others quiet.",
       "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-27.b64",
       "host": "Leo Ward",
       "show": "Good Morning AI",
       "clock": {
-        "duration": 45,
+        "duration": 90,
         "starts": {
           "open": 0,
-          "spacex": 8,
-          "anthropic": 18,
-          "openai": 25,
-          "nvidia": 32,
-          "google": 38,
-          "close": 42
+          "spacex": 10,
+          "anthropic": 30,
+          "openai": 55,
+          "nvidia": 65,
+          "google": 75,
+          "close": 85
         }
       },
       "sections": [
@@ -319,22 +463,157 @@
         {
           "id": "spacex",
           "kicker": "SpaceX / xAI",
-          "headline": "Quiet, no new launch",
-          "dek": "No new launch in the window.",
-          "reaction": "No new launch.",
+          "headline": "Falcon 9 launches 27 Starlink satellites",
+          "dek": "Launch and deployment from California; Starship preparations continue.",
+          "reaction": "Launch went up.",
           "paragraphs": [
-            "SpaceX and xAI were quiet with no new launch in the window."
+            "SpaceX and xAI: Falcon 9 launched twenty-seven Starlink satellites from California, with deployment confirmed. Preparations for Starship continued. No other major announcements in the window."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2115004840321659292"
+            },
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2114998002129440995"
+            }
+          ]
         },
         {
           "id": "anthropic",
           "kicker": "Anthropic",
-          "headline": "Quiet on official announcements",
+          "headline": "GSA OneGov partnership and drug discovery",
+          "dek": "Claude to governments at 40% off; early results from medicine research.",
+          "reaction": "Government expansion and life sciences progress.",
+          "paragraphs": [
+            "Anthropic expanded their partnership with the US GSA under a new OneGov agreement, bringing Claude to federal, state, local, tribal, and territorial governments at forty percent off. They shared early results from drug discovery research partnerships, noting how Claude supports the many stages of medicine development."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2115207004293853358"
+            },
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2115178675050307942"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Quiet on official posts",
+          "dek": "No new announcements in the window.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "OpenAI was quiet on official posts in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Quiet on major announcements",
           "dek": "No major new posts.",
           "reaction": "Labs were quiet.",
           "paragraphs": [
-            "Anthropic was quiet on official announcements."
+            "Nvidia was quiet on major new announcements in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Introducing Genie 4 world model",
+          "dek": "Most realistic interactive world model with real-time steering and audio.",
+          "reaction": "Major step in world models.",
+          "paragraphs": [
+            "Google introduced Genie 4 from DeepMind, their most realistic and interactive world model yet. Users can use natural language to dynamically steer the world and its soundscape in real time. It introduces ambient audio and real-time interactive human dialogue. Includes strict safety guardrails and SynthID watermarking."
+          ],
+          "sources": [
+            {
+              "name": "Google AI",
+              "handle": "@GoogleAI",
+              "href": "https://x.com/GoogleAI/status/2115114625985368299"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Launch, government AI, world model.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26",
+      "air": "Monday, October 26",
+      "slot": "6:30 a.m. ET",
+      "title": "Weekend catch-up: Starship static fires, Nvidia cancer AI",
+      "dek": "Weekend catch-up since Friday. Ship 42 static fires for Flight 15. Nvidia TumorSight risk tool. Other labs quiet.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-26.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 80,
+        "starts": {
+          "open": 0,
+          "spacex": 12,
+          "anthropic": 35,
+          "openai": 45,
+          "nvidia": 55,
+          "google": 70,
+          "close": 75
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Monday weekend catch-up",
+          "dek": "Everything since Friday's show through Monday morning.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Monday, October twenty-sixth. This is the weekend catch-up, covering everything since Friday's show, Saturday and Sunday through this morning."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Ship 42 static fires complete",
+          "dek": "Preparations for Flight 15; full duration six-engine static fire.",
+          "reaction": "No new launch over the weekend.",
+          "paragraphs": [
+            "SpaceX and xAI: Over the weekend, Ship 42 completed static fires in preparation for Starship Flight 15, including a full-duration six-engine static fire and a single Raptor to simulate a deorbit burn. No new launch in the catch-up window. Elon continued promoting Grok Bot features."
+          ],
+          "sources": [
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2115476295169814978"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Quiet over the weekend",
+          "dek": "No major new announcements.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "Anthropic was relatively quiet over the weekend on major new announcements."
           ],
           "sources": []
         },
@@ -352,123 +631,28 @@
         {
           "id": "nvidia",
           "kicker": "Nvidia",
-          "headline": "Quiet on major new posts",
-          "dek": "No major announcements.",
-          "reaction": "Labs were quiet.",
+          "headline": "TumorSight Risk AI for breast cancer",
+          "dek": "FDA-cleared tool estimates recurrence risk using MRI and clinical data.",
+          "reaction": "Helpful application of AI in medicine.",
           "paragraphs": [
-            "Nvidia was quiet on major new posts."
+            "Nvidia highlighted an AI application for breast cancer risk assessment. SimBioSys uses NVIDIA technology in their FDA-cleared TumorSight Risk tool that analyzes an existing breast MRI alongside pathology and clinical information to estimate the risk of cancer returning at five and ten years."
           ],
-          "sources": []
+          "sources": [
+            {
+              "name": "NVIDIA",
+              "handle": "@nvidia",
+              "href": "https://x.com/nvidia/status/2114827978748383342"
+            }
+          ]
         },
         {
           "id": "google",
           "kicker": "Google",
-          "headline": "Quiet on major AI announcements",
-          "dek": "No major new AI posts.",
+          "headline": "Quiet on major AI posts",
+          "dek": "No major new AI announcements over the weekend.",
           "reaction": "Labs were quiet.",
           "paragraphs": [
-            "Google was quiet on major AI announcements."
-          ],
-          "sources": []
-        },
-        {
-          "id": "close",
-          "kicker": "Close",
-          "headline": "Overnight picture",
-          "dek": "A quiet day.",
-          "reaction": "",
-          "paragraphs": [
-            "That is the overnight picture. Have a good day."
-          ],
-          "sources": []
-        }
-      ]
-    },
-    {
-      "id": "2026-10-26",
-      "air": "Monday, October 26",
-      "slot": "6:30 a.m. ET",
-      "title": "Weekend catch-up: quiet across the labs",
-      "dek": "Weekend catch-up since Friday. Most labs quiet. Elon on Grok Bot.",
-      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-26.b64",
-      "host": "Leo Ward",
-      "show": "Good Morning AI",
-      "clock": {
-        "duration": 60,
-        "starts": {
-          "open": 0,
-          "spacex": 10,
-          "anthropic": 25,
-          "openai": 32,
-          "nvidia": 40,
-          "google": 48,
-          "close": 55
-        }
-      },
-      "sections": [
-        {
-          "id": "open",
-          "kicker": "Cold open",
-          "headline": "Monday weekend catch-up",
-          "dek": "Everything since Friday's show through this morning.",
-          "reaction": "",
-          "paragraphs": [
-            "Good morning. This is Leo Ward with Good Morning AI. Monday, October twenty-sixth. This is the weekend catch-up, covering everything since Friday's show, Saturday and Sunday through this morning."
-          ],
-          "sources": []
-        },
-        {
-          "id": "spacex",
-          "kicker": "SpaceX / xAI",
-          "headline": "Quiet over the weekend",
-          "dek": "No new launches. Elon shares on Grok Bot.",
-          "reaction": "No new launch.",
-          "paragraphs": [
-            "SpaceX and xAI were relatively quiet over the weekend with no new launches. Elon Musk shared notes on Grok Bot as personal AI staff."
-          ],
-          "sources": []
-        },
-        {
-          "id": "anthropic",
-          "kicker": "Anthropic",
-          "headline": "Quiet on major announcements",
-          "dek": "No major new posts.",
-          "reaction": "Labs were quiet.",
-          "paragraphs": [
-            "Anthropic was quiet on major announcements."
-          ],
-          "sources": []
-        },
-        {
-          "id": "openai",
-          "kicker": "OpenAI",
-          "headline": "Quiet",
-          "dek": "No significant new posts.",
-          "reaction": "Labs were quiet.",
-          "paragraphs": [
-            "OpenAI had no significant new posts from official accounts."
-          ],
-          "sources": []
-        },
-        {
-          "id": "nvidia",
-          "kicker": "Nvidia",
-          "headline": "Quiet overnight",
-          "dek": "No major new posts.",
-          "reaction": "Labs were quiet.",
-          "paragraphs": [
-            "Nvidia was quiet overnight."
-          ],
-          "sources": []
-        },
-        {
-          "id": "google",
-          "kicker": "Google",
-          "headline": "Quiet on new AI",
-          "dek": "Focused on other promotions.",
-          "reaction": "Labs were quiet on new AI developments.",
-          "paragraphs": [
-            "Google focused on other promotions rather than new AI developments."
+            "Google was quiet on major AI posts over the weekend."
           ],
           "sources": []
         },
@@ -476,10 +660,10 @@
           "id": "close",
           "kicker": "Close",
           "headline": "Weekend picture",
-          "dek": "A quieter weekend.",
+          "dek": "Starship prep and medical AI.",
           "reaction": "",
           "paragraphs": [
-            "That is the weekend picture. Have a good day."
+            "That is the weekend catch-up. Have a good day."
           ],
           "sources": []
         }
@@ -489,7 +673,7 @@
       "id": "2026-10-25",
       "air": "Sunday, October 25",
       "slot": "6:30 a.m. ET",
-      "title": "Quiet overnight; Nvidia pushes Europe’s AI economy",
+      "title": "Quiet overnight; Nvidia pushes Europe\u2019s AI economy",
       "dek": "Most labs silent overnight. Nvidia at GTC Berlin. Elon shares Grok Bot note.",
       "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-25.b64",
       "host": "Leo Ward",
@@ -560,11 +744,11 @@
         {
           "id": "nvidia",
           "kicker": "Nvidia",
-          "headline": "Europe’s AI economy at GTC Berlin",
-          "dek": "Jensen Huang on building Europe’s own AI with existing expertise.",
+          "headline": "Europe\u2019s AI economy at GTC Berlin",
+          "dek": "Jensen Huang on building Europe\u2019s own AI with existing expertise.",
           "reaction": "Focus on regional AI build-out.",
           "paragraphs": [
-            "Nvidia posted from GTC Berlin. Jensen Huang noted that Europe has spent generations mastering science, engineering and manufacturing, and that knowledge can now power AI of its own. He said, let’s work together to build Europe’s AI economy and put AI to work."
+            "Nvidia posted from GTC Berlin. Jensen Huang noted that Europe has spent generations mastering science, engineering and manufacturing, and that knowledge can now power AI of its own. He said, let\u2019s work together to build Europe\u2019s AI economy and put AI to work."
           ],
           "sources": [
             {
