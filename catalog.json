@@ -1,1 +1,154 @@
-PLACEHOLDER
+{
+  "episodes": [
+    {
+      "id": "2026-11-17",
+      "air": "Tuesday, November 17",
+      "slot": "6:30 a.m. ET",
+      "title": "Starship 42 back, ChatGPT Healthcare, Gemini Notebook sites",
+      "dek": "Previous 24 hours: SpaceX catch views and Ship 42 return, Elon on Grok 4.8, OpenAI healthcare and science access, Nvidia Nemotron, Google interactive sites. Anthropic quiet.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-17.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 110,
+        "starts": {
+          "open": 0,
+          "spacex": 12,
+          "anthropic": 50,
+          "openai": 60,
+          "nvidia": 80,
+          "google": 95,
+          "close": 105
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Tuesday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Tuesday, November seventeenth. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Starship 42 back on Earth; Grok 4.8",
+          "dek": "Mechazilla views of first catch. Ship returned. Waiting for Grok 4.8.",
+          "reaction": "No new launch in the window.",
+          "paragraphs": [
+            "SpaceX and xAI: SpaceX shared views from Mechazilla of the first ever Starship catch, and confirmed Starship 42 back on Earth after the historic catch. Elon Musk posted about waiting for Grok 4.8, and noted matching judgments with a structural engineer on welds. No new launch in the window."
+          ],
+          "sources": [
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2122427170328883425"
+            },
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2122446937286971592"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2122591171905986818"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Quiet on official announcements",
+          "dek": "No major new posts in the window.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "Anthropic was quiet on official announcements in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "ChatGPT for Healthcare and science access",
+          "dek": "Computer-use agents, clinical answers, plugins. Scientists productivity up. Free access expansion.",
+          "reaction": "New healthcare tools and broader research access.",
+          "paragraphs": [
+            "OpenAI advanced ChatGPT for Healthcare with more capable computer-use agents, stronger clinical answers, and over twenty new healthcare plugins. Partners are putting the models to work. Scientists reported nearly doubling their productivity with AI. Expanding free access to frontier models for up to two hundred thousand scientists worldwide, applications open November twenty-third."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2122465625109090646"
+            },
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2122380010287960095"
+            },
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2122377585523126615"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Nemotron post-training walkthrough",
+          "dek": "New guide for science domain accuracy. Otherwise quiet.",
+          "reaction": "Practical tools for domain adaptation.",
+          "paragraphs": [
+            "Nvidia shared a new walkthrough showing how to post-train Nemotron 3.5 Super VL for science using NeMo Gym and NeMo RL. Otherwise relatively quiet on major announcements."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA AI",
+              "handle": "@NVIDIAAI",
+              "href": "https://x.com/NVIDIAAI/status/2122479809632915863"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gemini Notebook interactive sites",
+          "dek": "Turn sources into dashboards and explainers. Ask Maps expansion.",
+          "reaction": "New generative features for notebooks.",
+          "paragraphs": [
+            "Google: Gemini Notebook can now turn your sources into interactive sites like dashboards and visual explainers. Type make me a site in the chat. Also expanding Ask Maps to more countries for holiday travel."
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2122449668613579018"
+            },
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2122431001154507057"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Catch aftermath, healthcare AI, interactive tools.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    }
+  ]
+}
