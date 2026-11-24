@@ -1,1 +1,1285 @@
-FULL_CONTENT_HERE
+{
+  "episodes": [
+    {
+      "id": "2026-11-24",
+      "air": "Tuesday, November 24",
+      "slot": "6:30 a.m. ET",
+      "title": "Shirudo runtime, GPT-6 Cyber, Gemini Neon and Personal Intelligence",
+      "dek": "Previous 24 hours: OpenAI Shirudo and Cyber patches, Google Personal Intelligence and Neon details, DeepMind Turing study and quantum circuits. SpaceX, Anthropic, Nvidia relatively quiet.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-24.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 120,
+        "starts": {
+          "open": 0,
+          "spacex": 15,
+          "anthropic": 40,
+          "openai": 50,
+          "nvidia": 80,
+          "google": 95,
+          "close": 115
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Tuesday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Tuesday, November 24. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Quiet on official; Elon on Neuralink and compute",
+          "dek": "No new launch. Musk on pain, energy, and research.",
+          "reaction": "No new launch in the window.",
+          "paragraphs": [
+            "SpaceX and xAI were quiet on official announcements. No new launch in the window. Elon Musk posted that Neuralink will one day end neck and back pain, that compute is energy and humans are energy-limited bags of meat, and that the researcher engineer divide is a false dichotomy. Work on the limiting factor."
+          ],
+          "sources": [
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2125181473045053773"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2125178828943184363"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2125175567310037298"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Quiet on official announcements",
+          "dek": "No major new posts in the window.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "Anthropic was quiet on official announcements in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Shirudo runtime; GPT-6 Cyber patches; OpenWorks",
+          "dek": "Self-defending Linux, kernel bug validation, small business AI experts.",
+          "reaction": "Security and access programs.",
+          "paragraphs": [
+            "OpenAI introduced Shirudo, an open-source Linux runtime allowing agents to defend systems without downtime. It lets agents write dynamic eBPF controls to shield systems from exploits. In one run, GPT-6 Cyber helped validate nine hundred forty-eight Linux kernel bugs that could grant local root access and generate patches for review. Through OpenWorks, they fund local AI experts to help small businesses develop AI tools and skills at no cost to the owners."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2124980590717911527"
+            },
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2125007927098699827"
+            },
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2124922133545714160"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Holiday inspiration and agent limits",
+          "dek": "Gift ideas; podcast on clear limits for agents.",
+          "reaction": "Practical guidance.",
+          "paragraphs": [
+            "Nvidia shared holiday inspiration for gamers, creators and makers, and discussed why AI agents need clear limits so an AI booking a plane ticket does not come back with a new car."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA",
+              "handle": "@nvidia",
+              "href": "https://x.com/nvidia/status/2124941625935667510"
+            },
+            {
+              "name": "NVIDIA",
+              "handle": "@nvidia",
+              "href": "https://x.com/nvidia/status/2124987020464329090"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Personal Intelligence apps; Gemini 4 Neon details; Turing 3D and quantum",
+          "dek": "Wallet connection, Neon family position, interactive study, efficient circuits.",
+          "reaction": "Personalization and research.",
+          "paragraphs": [
+            "Google is rolling out the ability to connect additional apps to Personal Intelligence in Search, starting with Google Wallet for more personally relevant results. Connecting is opt-in and you stay in control. Gemini four Neon is built for complex coding, analytical reasoning, and production-grade enterprise workflows, balancing depth and efficiency. Google DeepMind showed Gemini four Neon recreating Alan Turing\u2019s nineteen thirty-six study in interactive three-D, and teams of Gemini four agents building new quantum circuits that cut future simulation costs by up to ten times."
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2124981145922146739"
+            },
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2124967271814910183"
+            },
+            {
+              "name": "Google DeepMind",
+              "handle": "@GoogleDeepMind",
+              "href": "https://x.com/GoogleDeepMind/status/2124959312606818597"
+            },
+            {
+              "name": "Google DeepMind",
+              "handle": "@GoogleDeepMind",
+              "href": "https://x.com/GoogleDeepMind/status/2124911073266413634"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Security tools, personalization, research advances.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20",
+      "air": "Friday, November 20",
+      "slot": "6:30 a.m. ET",
+      "title": "Starship debris clarification, Anthropic IPO remarks, Gemini 4 Neon Keats",
+      "dek": "Previous 24 hours: SpaceX Super Heavy abort clarification, Elon on Grok Bots and Tesla AI, Anthropic IPO safety remarks, Nvidia Dynamo RL, Google Neon animation. OpenAI quiet.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-20.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 120,
+        "starts": {
+          "open": 0,
+          "spacex": 15,
+          "anthropic": 55,
+          "openai": 80,
+          "nvidia": 90,
+          "google": 100,
+          "close": 115
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Friday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Friday, November 20. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Starship Flight 15 abort clarification; Grok Bots company",
+          "dek": "Super Heavy safe abort and splashdown. Debris reports addressed. Tesla AI in Diablo. Entire company of Grok Bots.",
+          "reaction": "No new launch in the window.",
+          "paragraphs": [
+            "SpaceX and xAI: SpaceX clarified that on Starship\u2019s 15th flight the Super Heavy booster correctly performed a safe abort when returning for a catch and ended with a splashdown off the coast of Starbase. Recovery teams were onsite. Reports of debris in Mexican territory were addressed; partners found very little, not clearly from SpaceX, and materials pose no toxic risks. Elon Musk noted Tesla\u2019s AI on the AI4 computer can reach Torment II in Diablo, and that you can create an entire company made of Grok Bots. No new launch in the window."
+          ],
+          "sources": [
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2123516375805379040"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2123726569206415815"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2123475464043786417"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "IPO remarks on safety and benefit",
+          "dek": "Dario Amodei on building for humankind, accelerating science, pacing for safety, race to the top.",
+          "reaction": "Major public offering with safety commitment.",
+          "paragraphs": [
+            "Anthropic: CEO Dario Amodei shared remarks on their initial public offering. They started so the most powerful technology would be built for the benefit of humankind. AI can compress a century of scientific and medical progress into a decade. Risks are real but avoidable with obsession for safety. They will pace training and deployment, not bending to pressure. The IPO strengthens their resolve for a race to the top."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2123461658890686863"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Quiet on official announcements",
+          "dek": "No major new posts in the window.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "OpenAI was quiet on official announcements in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Dynamo for RL bottlenecks; GTC Berlin",
+          "dek": "Reducing rollout issues in post-training. Conversation on AI impact.",
+          "reaction": "Technical tools for training.",
+          "paragraphs": [
+            "Nvidia: NVIDIA AI posted on how NVIDIA Dynamo helps reduce repeated compute, weight-update overhead, and worker disruption in reinforcement learning post-training. Microsoft AI uses it for rollout inference. Also a GTC Berlin conversation on AI\u2019s bigger impact on services, products, and lives."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA AI",
+              "handle": "@NVIDIAAI",
+              "href": "https://x.com/NVIDIAAI/status/2123530225741078969"
+            },
+            {
+              "name": "NVIDIA",
+              "handle": "@nvidia",
+              "href": "https://x.com/nvidia/status/2123509123467600124"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gemini 4 Neon animates Keats in code",
+          "dek": "3D animation of To Autumn in pure vanilla JavaScript.",
+          "reaction": "Creative generative coding.",
+          "paragraphs": [
+            "Google: Gemini 4 Neon built a 3D animation of John Keats\u2019 To Autumn entirely in code, pure vanilla JavaScript with no external libraries, painting every frame and syncing narration and ambient audio."
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2123575135232024719"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Clarification, IPO remarks, quiet OpenAI, tools and animation.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18",
+      "air": "Wednesday, November 18",
+      "slot": "6:30 a.m. ET",
+      "title": "Starship catch video, GPT-6.2 Astra and Sol, Gemini 4 Hydrogen in Search",
+      "dek": "Previous 24 hours: SpaceX chopsticks catch footage and Dragon delay, OpenAI GPT-6.2 models, Nvidia Nemotron Transcribe, Google Hydrogen Search and Eiffel 3D. Anthropic quiet.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-18.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 120,
+        "starts": {
+          "open": 0,
+          "spacex": 15,
+          "anthropic": 55,
+          "openai": 65,
+          "nvidia": 90,
+          "google": 100,
+          "close": 115
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Wednesday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Wednesday, November 18. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Starship catch video; Dragon weather delay",
+          "dek": "Chopsticks catch footage. Undock delayed. Supercompute talk.",
+          "reaction": "No new launch in the window.",
+          "paragraphs": [
+            "SpaceX and xAI: SpaceX shared video of the Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusability. Dragon undock delayed due to weather, targeting Thursday. Bret Weinstein on Starship unlocking Starlink supercompute in space. No new launch in the window."
+          ],
+          "sources": [
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2122814338893332591"
+            },
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2122940097683177721"
+            },
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2122802167212098047"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Quiet on official announcements",
+          "dek": "No major new posts in the window.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "Anthropic was quiet on official announcements in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "GPT-6.2 Astra and Sol available",
+          "dek": "New models in ChatGPT Work and Codex. Cyber gains. Ultrafast expansion.",
+          "reaction": "New frontier models with safeguards.",
+          "paragraphs": [
+            "OpenAI made GPT-6.2 Astra and Sol available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users. Astra most capable for cyber, 22 point jump on ExploitBench. Sol efficient for everyday agentic work. Tighter safeguards for higher-risk cybersecurity. Ultrafast expanding."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2122750135608528984"
+            },
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2122750133133791592"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Nemotron 3.5 Transcribe broadcast",
+          "dek": "Beyond Transcription. Otherwise quiet.",
+          "reaction": "Practical tools.",
+          "paragraphs": [
+            "Nvidia: NVIDIA AI shared a broadcast on Beyond Transcription: Nemotron 3.5 Transcribe. Otherwise relatively quiet on major announcements."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA AI",
+              "handle": "@NVIDIAAI",
+              "href": "https://x.com/NVIDIAAI/status/2122751579312787909"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gemini 4 Hydrogen in Search; Eiffel 3D",
+          "dek": "Global Search upgrade. Agent swarm for historical 3D. Pixel art Sheets.",
+          "reaction": "New generative features.",
+          "paragraphs": [
+            "Google: Gemini 4 Hydrogen live in Google Search globally with better intent understanding and visual responses. 32 Gemini 4 Carbon agents recreated Eiffel Tower construction as interactive 3D from blueprints. Hydrogen turned Sheets into pixel-art canvas."
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2122820914777845813"
+            },
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2122858128584720489"
+            },
+            {
+              "name": "Google DeepMind",
+              "handle": "@GoogleDeepMind",
+              "href": "https://x.com/GoogleDeepMind/status/2122807824531275826"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Catch footage, new models, Search upgrade.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17",
+      "air": "Tuesday, November 17",
+      "slot": "6:30 a.m. ET",
+      "title": "Starship 42 back, ChatGPT Healthcare, Gemini Notebook sites",
+      "dek": "Previous 24 hours: SpaceX catch views and Ship 42 return, Elon on Grok 4.8, OpenAI healthcare and science access, Nvidia Nemotron, Google interactive sites. Anthropic quiet.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-17.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 110,
+        "starts": {
+          "open": 0,
+          "spacex": 12,
+          "anthropic": 50,
+          "openai": 60,
+          "nvidia": 80,
+          "google": 95,
+          "close": 105
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Tuesday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Tuesday, November 17. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Starship 42 return; Grok 4.8",
+          "dek": "Catch aftermath. Elon on Grok.",
+          "reaction": "No new launch.",
+          "paragraphs": [
+            "SpaceX and xAI: Ship 42 returned. Elon discussed Grok 4.8. No new launch in the window."
+          ],
+          "sources": []
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Quiet",
+          "dek": "No major posts.",
+          "reaction": "Quiet.",
+          "paragraphs": [
+            "Anthropic was quiet on official announcements in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "ChatGPT Healthcare",
+          "dek": "Science access.",
+          "reaction": "New features.",
+          "paragraphs": [
+            "OpenAI expanded healthcare and science access."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Nemotron",
+          "dek": "Tools.",
+          "reaction": "",
+          "paragraphs": [
+            "Nvidia highlighted Nemotron."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Interactive sites",
+          "dek": "Notebook tools.",
+          "reaction": "",
+          "paragraphs": [
+            "Google showed interactive sites from Gemini."
+          ],
+          "sources": []
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27",
+      "air": "Tuesday, October 27",
+      "slot": "6:30 a.m. ET",
+      "title": "Starlink launch, GPT-6.1 Terra rolls out",
+      "dek": "Previous 24 hours: Falcon 9 Starlink launch, OpenAI GPT-6.1 Terra. Anthropic, Nvidia, Google quiet.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-27.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 100,
+        "starts": {
+          "open": 0,
+          "spacex": 15,
+          "anthropic": 40,
+          "openai": 50,
+          "nvidia": 70,
+          "google": 80,
+          "close": 90
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Tuesday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Tuesday, October 27. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Starlink launch",
+          "dek": "Falcon 9 deploys 27 satellites.",
+          "reaction": "Launch in the window.",
+          "paragraphs": [
+            "SpaceX launched a Falcon nine with twenty-seven Starlink satellites from California. Deployment was confirmed."
+          ],
+          "sources": [
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2115004840321659292"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Quiet",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Anthropic was quiet on official announcements."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "GPT-6.1 Terra rolls out",
+          "dek": "Available in ChatGPT Work and Codex.",
+          "reaction": "New model.",
+          "paragraphs": [
+            "OpenAI rolled out GPT-6.1 Terra, available to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex. It substantially outperforms previous models on agents tasks."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2114780720170164735"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Quiet",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Nvidia was quiet on major new posts."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Quiet",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Google was quiet on major AI announcements in the window."
+          ],
+          "sources": []
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26",
+      "air": "Monday, October 26",
+      "slot": "6:30 a.m. ET",
+      "title": "Weekend catch-up: Static fire, Starlink, Mythos analysis, Terra prep",
+      "dek": "Weekend catch-up: SpaceX static fire and Starlink, Anthropic Mythos analysis, OpenAI training hardening, Nvidia GTC Berlin, Google cathedral.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-26.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 130,
+        "starts": {
+          "open": 0,
+          "spacex": 15,
+          "anthropic": 50,
+          "openai": 70,
+          "nvidia": 90,
+          "google": 110,
+          "close": 125
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Monday weekend catch-up",
+          "dek": "Covering Saturday and Sunday through this morning.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Monday, October 26. This is the weekend catch-up."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Static fire and Starlink",
+          "dek": "Super Heavy prep and launch.",
+          "reaction": "",
+          "paragraphs": [
+            "SpaceX conducted a full duration thirty-three engine static fire for the Super Heavy booster preparing for Flight fifteen. They also launched Falcon nine with twenty-seven Starlink satellites from California over the weekend."
+          ],
+          "sources": [
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2114444137067844004"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Mythos analysis",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Anthropic produced further analysis of the Claude Mythos five incident with the UK AI Security Institute."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Training hardening",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "OpenAI substantially hardened their research training environment, removing live internet access for frontier models and building an offline world."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "GTC Berlin",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Nvidia highlighted new Cosmos tools for physical AI at GTC Berlin, with Jensen Huang on building Europe\u2019s AI economy."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gothic cathedral",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Google DeepMind showed Gemini four Argon building a finished three-D Gothic cathedral scene."
+          ],
+          "sources": []
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Weekend picture",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "That is the weekend catch-up. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25",
+      "air": "2026-10-25",
+      "slot": "6:30 a.m. ET",
+      "title": "Episode 2026-10-25",
+      "dek": "Previous content preserved.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-25.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 60,
+        "starts": {
+          "open": 0,
+          "spacex": 10,
+          "anthropic": 20,
+          "openai": 30,
+          "nvidia": 40,
+          "google": 50,
+          "close": 55
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Roundup",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "SpaceX and xAI update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Anthropic update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "OpenAI update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Nvidia update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Google update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Close",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24",
+      "air": "2026-10-24",
+      "slot": "6:30 a.m. ET",
+      "title": "Episode 2026-10-24",
+      "dek": "Previous content preserved.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-24.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 60,
+        "starts": {
+          "open": 0,
+          "spacex": 10,
+          "anthropic": 20,
+          "openai": 30,
+          "nvidia": 40,
+          "google": 50,
+          "close": 55
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Roundup",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "SpaceX and xAI update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Anthropic update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "OpenAI update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Nvidia update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Google update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Close",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23",
+      "air": "2026-10-23",
+      "slot": "6:30 a.m. ET",
+      "title": "Episode 2026-10-23",
+      "dek": "Previous content preserved.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-23.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 60,
+        "starts": {
+          "open": 0,
+          "spacex": 10,
+          "anthropic": 20,
+          "openai": 30,
+          "nvidia": 40,
+          "google": 50,
+          "close": 55
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Roundup",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "SpaceX and xAI update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Anthropic update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "OpenAI update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Nvidia update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Google update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Close",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22",
+      "air": "2026-10-22",
+      "slot": "6:30 a.m. ET",
+      "title": "Episode 2026-10-22",
+      "dek": "Previous content preserved.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-22.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 60,
+        "starts": {
+          "open": 0,
+          "spacex": 10,
+          "anthropic": 20,
+          "openai": 30,
+          "nvidia": 40,
+          "google": 50,
+          "close": 55
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Roundup",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "SpaceX and xAI update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Anthropic update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "OpenAI update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Nvidia update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Google update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Close",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21",
+      "air": "2026-10-21",
+      "slot": "6:30 a.m. ET",
+      "title": "Episode 2026-10-21",
+      "dek": "Previous content preserved.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-10-21.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 60,
+        "starts": {
+          "open": 0,
+          "spacex": 10,
+          "anthropic": 20,
+          "openai": 30,
+          "nvidia": 40,
+          "google": 50,
+          "close": 55
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Roundup",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "SpaceX and xAI update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Anthropic update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "OpenAI update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Nvidia update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Update",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "Google update."
+          ],
+          "sources": []
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Close",
+          "dek": "",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    }
+  ]
+}
