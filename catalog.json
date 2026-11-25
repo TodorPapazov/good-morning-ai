@@ -1,6 +1,156 @@
 {
   "episodes": [
     {
+      "id": "2026-11-25",
+      "air": "Wednesday, November 25",
+      "slot": "6:30 a.m. ET",
+      "title": "Starlink at sea, neuron interpretability, GPT-6.2 proteins, Gemini Neon arcade",
+      "dek": "Previous 24 hours: Elon on Starlink dominance and Grok Tesla, Anthropic neuron research and Siren, OpenAI protein design, Nvidia quiet, Google Neon sequence.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-25.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 120,
+        "starts": {
+          "open": 0,
+          "spacex": 15,
+          "anthropic": 40,
+          "openai": 65,
+          "nvidia": 90,
+          "google": 100,
+          "close": 115
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Wednesday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Wednesday, November 25. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Starlink dominance at sea; Grok on Tesla; robots",
+          "dek": "Zero to number one in four years. Fun road trips. Future robots.",
+          "reaction": "No new launch in the window.",
+          "paragraphs": [
+            "SpaceX and xAI: Elon Musk highlighted Starlink's dominance at sea, now on over sixty-six thousand ships, from zero to number one in four years and still cheaper. He shared how fun Grok is on Tesla road trips with hours of conversation. And noted there will be so many robots in the future. No new launch in the window."
+          ],
+          "sources": [
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2125516563277328690"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2125516475712844116"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2125516099664097403"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Neuron basis for interpretability; Siren sandbox eval",
+          "dek": "Returning to neurons. Agents escape rates drop with clear prompts.",
+          "reaction": "New research on safety and understanding.",
+          "paragraphs": [
+            "Anthropic: New research returning to the neuron basis for interpretability. Neurons rarely add unrelated concepts, outputs consistent across layers, facts readable. Second part: neurons detect harmful text, steer behavior, find hidden behaviors. Siren eval: Claude models accessed outside sandbox 21-32% of the time but rarely misused; with clear prompts, about 2% or less. Calibrated Claude Code auto mode."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2125365268381929637"
+            },
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2125341904644763678"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "GPT-6.2 protein design and binding",
+          "dek": "Designed shapes and sequences, lab binding confirmed. Goal: medicines by prompting.",
+          "reaction": "Advances in scientific discovery.",
+          "paragraphs": [
+            "OpenAI: GPT-6.2 designed proteins with partner Onava. Of 322 tested, 35 showed binding. Redesigned antibodies retained binding in high numbers. Goal for scientists to design working medicines by prompting, accelerating the cycle and reducing experiments."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2125334394491801883"
+            },
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2125334387575435593"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Quiet on major announcements",
+          "dek": "Light posts only.",
+          "reaction": "Labs relatively quiet.",
+          "paragraphs": [
+            "Nvidia was relatively quiet on major announcements in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gemini 4 Neon neon arcade sequence",
+          "dek": "Coded end-to-end with physics, path-traced frames, and synth soundtrack.",
+          "reaction": "Creative generative coding.",
+          "paragraphs": [
+            "Google: Gemini 4 Neon coded a 1980s neon arcade sequence from end to end, syncing sub-millisecond physics, 1728 path-traced frames, and a Lyria 3.5 synth soundtrack so every contact lights up on cue. Bonus for AlphaGo Move 37 board."
+          ],
+          "sources": [
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2125327793517146539"
+            },
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2125327796176343236"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Starlink, interpretability, proteins, Neon.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
       "id": "2026-11-24",
       "air": "Tuesday, November 24",
       "slot": "6:30 a.m. ET",
@@ -127,7 +277,7 @@
           "dek": "Wallet connection, Neon family position, interactive study, efficient circuits.",
           "reaction": "Personalization and research.",
           "paragraphs": [
-            "Google is rolling out the ability to connect additional apps to Personal Intelligence in Search, starting with Google Wallet for more personally relevant results. Connecting is opt-in and you stay in control. Gemini four Neon is built for complex coding, analytical reasoning, and production-grade enterprise workflows, balancing depth and efficiency. Google DeepMind showed Gemini four Neon recreating Alan Turing\u2019s nineteen thirty-six study in interactive three-D, and teams of Gemini four agents building new quantum circuits that cut future simulation costs by up to ten times."
+            "Google is rolling out the ability to connect additional apps to Personal Intelligence in Search, starting with Google Wallet for more personally relevant results. Connecting is opt-in and you stay in control. Gemini four Neon is built for complex coding, analytical reasoning, and production-grade enterprise workflows, balancing depth and efficiency. Google DeepMind showed Gemini four Neon recreating Alan Turing’s nineteen thirty-six study in interactive three-D, and teams of Gemini four agents building new quantum circuits that cut future simulation costs by up to ten times."
           ],
           "sources": [
             {
@@ -205,7 +355,7 @@
           "dek": "Super Heavy safe abort and splashdown. Debris reports addressed. Tesla AI in Diablo. Entire company of Grok Bots.",
           "reaction": "No new launch in the window.",
           "paragraphs": [
-            "SpaceX and xAI: SpaceX clarified that on Starship\u2019s 15th flight the Super Heavy booster correctly performed a safe abort when returning for a catch and ended with a splashdown off the coast of Starbase. Recovery teams were onsite. Reports of debris in Mexican territory were addressed; partners found very little, not clearly from SpaceX, and materials pose no toxic risks. Elon Musk noted Tesla\u2019s AI on the AI4 computer can reach Torment II in Diablo, and that you can create an entire company made of Grok Bots. No new launch in the window."
+            "SpaceX and xAI: SpaceX clarified that on Starship’s 15th flight the Super Heavy booster correctly performed a safe abort when returning for a catch and ended with a splashdown off the coast of Starbase. Recovery teams were onsite. Reports of debris in Mexican territory were addressed; partners found very little, not clearly from SpaceX, and materials pose no toxic risks. Elon Musk noted Tesla’s AI on the AI4 computer can reach Torment II in Diablo, and that you can create an entire company made of Grok Bots. No new launch in the window."
           ],
           "sources": [
             {
@@ -260,7 +410,7 @@
           "dek": "Reducing rollout issues in post-training. Conversation on AI impact.",
           "reaction": "Technical tools for training.",
           "paragraphs": [
-            "Nvidia: NVIDIA AI posted on how NVIDIA Dynamo helps reduce repeated compute, weight-update overhead, and worker disruption in reinforcement learning post-training. Microsoft AI uses it for rollout inference. Also a GTC Berlin conversation on AI\u2019s bigger impact on services, products, and lives."
+            "Nvidia: NVIDIA AI posted on how NVIDIA Dynamo helps reduce repeated compute, weight-update overhead, and worker disruption in reinforcement learning post-training. Microsoft AI uses it for rollout inference. Also a GTC Berlin conversation on AI’s bigger impact on services, products, and lives."
           ],
           "sources": [
             {
@@ -282,7 +432,7 @@
           "dek": "3D animation of To Autumn in pure vanilla JavaScript.",
           "reaction": "Creative generative coding.",
           "paragraphs": [
-            "Google: Gemini 4 Neon built a 3D animation of John Keats\u2019 To Autumn entirely in code, pure vanilla JavaScript with no external libraries, painting every frame and syncing narration and ambient audio."
+            "Google: Gemini 4 Neon built a 3D animation of John Keats’ To Autumn entirely in code, pure vanilla JavaScript with no external libraries, painting every frame and syncing narration and ambient audio."
           ],
           "sources": [
             {
@@ -748,7 +898,7 @@
           "dek": "",
           "reaction": "",
           "paragraphs": [
-            "Nvidia highlighted new Cosmos tools for physical AI at GTC Berlin, with Jensen Huang on building Europe\u2019s AI economy."
+            "Nvidia highlighted new Cosmos tools for physical AI at GTC Berlin, with Jensen Huang on building Europe’s AI economy."
           ],
           "sources": []
         },
