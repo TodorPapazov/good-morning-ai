@@ -1,6 +1,167 @@
 {
   "episodes": [
     {
+      "id": "2026-11-26",
+      "air": "Thursday, November 26",
+      "slot": "6:30 a.m. ET",
+      "title": "SpaceX child shares and Arizona supercompute, Claude Rust API, Gemini Neon Rube Goldberg",
+      "dek": "Previous 24 hours: SpaceX commits shares to children and Arizona site details, Anthropic Messages API Rust migration, OpenAI promo, Nvidia Nemotron routing, Google Neon arcade machine and Sheet grid. No new launch.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-26.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 180.0,
+        "starts": {
+          "open": 0,
+          "spacex": 15,
+          "anthropic": 70,
+          "openai": 95,
+          "nvidia": 115,
+          "google": 135,
+          "close": 165
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Thursday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Thursday, November 26. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Child shares, Cygnus prep, Arizona supercompute, multiplanetary vision",
+          "dek": "One share to millions of children. Launch targeted Sunday. Arizona site jobs and rates. Order of magnitude lead.",
+          "reaction": "No new launch in the window.",
+          "paragraphs": [
+            "SpaceX is committing one share to millions of American children to give the next generation a stake in building a more exciting future and making life multiplanetary. They encapsulated Cygnus XL for Falcon 9 launch targeted for 10:47 a.m. ET on Sunday, November 29. Announced supercompute site in Cochise County Arizona: no gas plant, closed-loop water, over 50 billion investment, 1,000 permanent jobs, up to 5,500 construction, and potential 40% residential rate decrease. Elon Musk noted SpaceX is beating the rest of the world by an order of magnitude, and success in multiplanetary life and harnessing sun energy would be worth a million times the global economy. Teslas have superhuman vision in FSD. No new launch in the window."
+          ],
+          "sources": [
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2125671356339499494"
+            },
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2125649126398591003"
+            },
+            {
+              "name": "SpaceX",
+              "handle": "@SpaceX",
+              "href": "https://x.com/SpaceX/status/2125637438710153247"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2125872083393446092"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2125867208358105441"
+            },
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2125867631546712066"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Messages API migrated from Python to Rust",
+          "dek": "Verified with Claude agents tracking differences.",
+          "reaction": "Engineering reliability work.",
+          "paragraphs": [
+            "Anthropic recently migrated their Messages API from Python to Rust. On the engineering blog, they share how they used the existing service to verify the new one, with teams of Claude agents tracking down and fixing differences between the two versions."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "handle": "@AnthropicAI",
+              "href": "https://x.com/AnthropicAI/status/2125627317263466739"
+            }
+          ]
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Make a Day Do Anything promo",
+          "dek": "Light on major announcements.",
+          "reaction": "Creative use cases.",
+          "paragraphs": [
+            "OpenAI posted a promotional video: for ordinary days that feel like a movie. Make a Day Do Anything with ChatGPT. Relatively light on major technical announcements in the window."
+          ],
+          "sources": [
+            {
+              "name": "OpenAI",
+              "handle": "@OpenAI",
+              "href": "https://x.com/OpenAI/status/2125635627341561995"
+            }
+          ]
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Nemotron 3.5 Lightning for code-review routing",
+          "dek": "Half the inference cost, higher accuracy.",
+          "reaction": "Practical fine-tuning example.",
+          "paragraphs": [
+            "Nvidia highlighted CodeRabbit and Baseten customized NVIDIA Nemotron 3.5 Lightning for their workflow, achieving better code-review routing at about half the inference cost. Fine-tuned in under three hours for less than one hundred dollars."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA AI",
+              "handle": "@NVIDIAAI",
+              "href": "https://x.com/NVIDIAAI/status/2125707678244892736"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Gemini 4 Neon Rube Goldberg arcade and Sheet grid",
+          "dek": "Physics, synth track, and 100k-cell native formula grid.",
+          "reaction": "Creative generative demos.",
+          "paragraphs": [
+            "Google DeepMind showed Gemini 4 Neon coding a Rube Goldberg machine inside a 1980s arcade, built in Antigravity with simulated physics and a Lyria 3.5 synth track. Using slash swarm, it turned one photo into a 100,000-cell Google Sheet grid with native formulas for edge detection, 3D depth shading, and six lighting modes."
+          ],
+          "sources": [
+            {
+              "name": "Google DeepMind",
+              "handle": "@GoogleDeepMind",
+              "href": "https://x.com/GoogleDeepMind/status/2125694207197110560"
+            },
+            {
+              "name": "Google",
+              "handle": "@Google",
+              "href": "https://x.com/Google/status/2125667315303723011"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Shares, infrastructure, migrations, and creative coding.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    },
+    {
       "id": "2026-11-25",
       "air": "Wednesday, November 25",
       "slot": "6:30 a.m. ET",
@@ -277,7 +438,7 @@
           "dek": "Wallet connection, Neon family position, interactive study, efficient circuits.",
           "reaction": "Personalization and research.",
           "paragraphs": [
-            "Google is rolling out the ability to connect additional apps to Personal Intelligence in Search, starting with Google Wallet for more personally relevant results. Connecting is opt-in and you stay in control. Gemini four Neon is built for complex coding, analytical reasoning, and production-grade enterprise workflows, balancing depth and efficiency. Google DeepMind showed Gemini four Neon recreating Alan Turing’s nineteen thirty-six study in interactive three-D, and teams of Gemini four agents building new quantum circuits that cut future simulation costs by up to ten times."
+            "Google is rolling out the ability to connect additional apps to Personal Intelligence in Search, starting with Google Wallet for more personally relevant results. Connecting is opt-in and you stay in control. Gemini four Neon is built for complex coding, analytical reasoning, and production-grade enterprise workflows, balancing depth and efficiency. Google DeepMind showed Gemini four Neon recreating Alan Turing\u2019s nineteen thirty-six study in interactive three-D, and teams of Gemini four agents building new quantum circuits that cut future simulation costs by up to ten times."
           ],
           "sources": [
             {
@@ -355,7 +516,7 @@
           "dek": "Super Heavy safe abort and splashdown. Debris reports addressed. Tesla AI in Diablo. Entire company of Grok Bots.",
           "reaction": "No new launch in the window.",
           "paragraphs": [
-            "SpaceX and xAI: SpaceX clarified that on Starship’s 15th flight the Super Heavy booster correctly performed a safe abort when returning for a catch and ended with a splashdown off the coast of Starbase. Recovery teams were onsite. Reports of debris in Mexican territory were addressed; partners found very little, not clearly from SpaceX, and materials pose no toxic risks. Elon Musk noted Tesla’s AI on the AI4 computer can reach Torment II in Diablo, and that you can create an entire company made of Grok Bots. No new launch in the window."
+            "SpaceX and xAI: SpaceX clarified that on Starship\u2019s 15th flight the Super Heavy booster correctly performed a safe abort when returning for a catch and ended with a splashdown off the coast of Starbase. Recovery teams were onsite. Reports of debris in Mexican territory were addressed; partners found very little, not clearly from SpaceX, and materials pose no toxic risks. Elon Musk noted Tesla\u2019s AI on the AI4 computer can reach Torment II in Diablo, and that you can create an entire company made of Grok Bots. No new launch in the window."
           ],
           "sources": [
             {
@@ -410,7 +571,7 @@
           "dek": "Reducing rollout issues in post-training. Conversation on AI impact.",
           "reaction": "Technical tools for training.",
           "paragraphs": [
-            "Nvidia: NVIDIA AI posted on how NVIDIA Dynamo helps reduce repeated compute, weight-update overhead, and worker disruption in reinforcement learning post-training. Microsoft AI uses it for rollout inference. Also a GTC Berlin conversation on AI’s bigger impact on services, products, and lives."
+            "Nvidia: NVIDIA AI posted on how NVIDIA Dynamo helps reduce repeated compute, weight-update overhead, and worker disruption in reinforcement learning post-training. Microsoft AI uses it for rollout inference. Also a GTC Berlin conversation on AI\u2019s bigger impact on services, products, and lives."
           ],
           "sources": [
             {
@@ -432,7 +593,7 @@
           "dek": "3D animation of To Autumn in pure vanilla JavaScript.",
           "reaction": "Creative generative coding.",
           "paragraphs": [
-            "Google: Gemini 4 Neon built a 3D animation of John Keats’ To Autumn entirely in code, pure vanilla JavaScript with no external libraries, painting every frame and syncing narration and ambient audio."
+            "Google: Gemini 4 Neon built a 3D animation of John Keats\u2019 To Autumn entirely in code, pure vanilla JavaScript with no external libraries, painting every frame and syncing narration and ambient audio."
           ],
           "sources": [
             {
@@ -898,7 +1059,7 @@
           "dek": "",
           "reaction": "",
           "paragraphs": [
-            "Nvidia highlighted new Cosmos tools for physical AI at GTC Berlin, with Jensen Huang on building Europe’s AI economy."
+            "Nvidia highlighted new Cosmos tools for physical AI at GTC Berlin, with Jensen Huang on building Europe\u2019s AI economy."
           ],
           "sources": []
         },
