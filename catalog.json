@@ -1,1 +1,123 @@
-$(cat /tmp/full_catalog.json)
+{
+  "episodes": [
+    {
+      "id": "2026-11-27",
+      "air": "Friday, November 27",
+      "slot": "6:30 a.m. ET",
+      "title": "Child stake in future, orbital compute, quiet labs, Thanksgiving note",
+      "dek": "Previous 24 hours: Elon on children having a stake, Starmind orbital satellites, quiet Anthropic and OpenAI, Nvidia Thanksgiving, Sundar Super cool. No new launch.",
+      "audio": "b64:https://raw.githubusercontent.com/TodorPapazov/good-morning-ai/main/audio/2026-11-27.b64",
+      "host": "Leo Ward",
+      "show": "Good Morning AI",
+      "clock": {
+        "duration": 120,
+        "starts": {
+          "open": 0,
+          "spacex": 15,
+          "anthropic": 45,
+          "openai": 55,
+          "nvidia": 65,
+          "google": 80,
+          "close": 100
+        }
+      },
+      "sections": [
+        {
+          "id": "open",
+          "kicker": "Cold open",
+          "headline": "Friday morning roundup",
+          "dek": "The previous twenty-four hours in AI and space.",
+          "reaction": "",
+          "paragraphs": [
+            "Good morning. This is Leo Ward with Good Morning AI. Friday, November 27. The previous twenty-four hours in AI and space."
+          ],
+          "sources": []
+        },
+        {
+          "id": "spacex",
+          "kicker": "SpaceX / xAI",
+          "headline": "Children stake in future; orbital data centers",
+          "dek": "Vital stake for next generation. Starmind conditional approval. No launch.",
+          "reaction": "No new launch in the window.",
+          "paragraphs": [
+            "SpaceX and xAI: Elon Musk emphasized that it is vital that children have a stake in the future following the share commitment to millions of American children. Reports of FCC conditional approval for up to one million Starmind orbital data center satellites for solar-powered AI compute. No new launch in the window."
+          ],
+          "sources": [
+            {
+              "name": "Elon Musk",
+              "handle": "@elonmusk",
+              "href": "https://x.com/elonmusk/status/2126110344120762593"
+            }
+          ]
+        },
+        {
+          "id": "anthropic",
+          "kicker": "Anthropic",
+          "headline": "Quiet on major announcements",
+          "dek": "No major new posts in the window.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "Anthropic was quiet on major official announcements in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "openai",
+          "kicker": "OpenAI",
+          "headline": "Quiet on major announcements",
+          "dek": "Light activity only.",
+          "reaction": "Labs were quiet.",
+          "paragraphs": [
+            "OpenAI was quiet on major official announcements in the previous twenty-four hours."
+          ],
+          "sources": []
+        },
+        {
+          "id": "nvidia",
+          "kicker": "Nvidia",
+          "headline": "Thanksgiving robot turkey note",
+          "dek": "Light holiday post.",
+          "reaction": "Relatively quiet on technical news.",
+          "paragraphs": [
+            "Nvidia shared a light-hearted Thanksgiving post featuring a robot and turkey. Relatively quiet on new technical announcements."
+          ],
+          "sources": [
+            {
+              "name": "NVIDIA AI",
+              "handle": "@NVIDIAAI",
+              "href": "https://x.com/NVIDIAAI/status/2126013273573298400"
+            }
+          ]
+        },
+        {
+          "id": "google",
+          "kicker": "Google",
+          "headline": "Sundar Super cool",
+          "dek": "Brief positive note.",
+          "reaction": "Quiet on new major model drops.",
+          "paragraphs": [
+            "Google CEO Sundar Pichai posted Super cool in response to recent developments. Quiet on new major announcements in the window."
+          ],
+          "sources": [
+            {
+              "name": "Sundar Pichai",
+              "handle": "@sundarpichai",
+              "href": "https://x.com/sundarpichai/status/2126110227816677598"
+            }
+          ]
+        },
+        {
+          "id": "close",
+          "kicker": "Close",
+          "headline": "Overnight picture",
+          "dek": "Stake, compute, and quiet labs.",
+          "reaction": "",
+          "paragraphs": [
+            "That is the overnight picture. Have a good day."
+          ],
+          "sources": []
+        }
+      ]
+    }
+  ]
+}
